@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce website with product catalog, shopping cart, payment integration, and admin dashboard.",
+    "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+    "stars": 42,
+    "forks": 12,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/e-commerce-platform"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "Collaborative task management tool with real-time updates, team workspaces, and progress tracking.",
+    "tech": ["React", "Firebase", "Tailwind CSS"],
+    "stars": 28,
+    "forks": 8,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/task-manager"
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "Weather application displaying current conditions, forecasts, and location-based weather data.",
+    "tech": ["React", "OpenWeather API", "Chart.js"],
+    "stars": 15,
+    "forks": 5,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/weather-dashboard"
+  },
+  {
+    "id": 4,
+    "title": "Expense Tracker",
+    "description": "Personal finance application for tracking expenses, setting budgets, and generating spending reports.",
+    "tech": ["React", "Node.js", "PostgreSQL"],
+    "stars": 19,
+    "forks": 6,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/expense-tracker"
+  },
+  {
+    "id": 5,
+    "title": "Recipe Finder",
+    "description": "Recipe search application using third-party API with filtering by ingredients, cuisine, and dietary preferences.",
+    "tech": ["React", "Spoonacular API", "HTML/CSS"],
+    "stars": 11,
+    "forks": 3,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/recipe-finder"
+  },
+  {
+    "id": 6,
+    "title": "Portfolio Website",
+    "description": "This personal portfolio website built with React, Vite, and Tailwind CSS, deployed on GitHub Pages.",
+    "tech": ["React", "Vite", "Tailwind CSS", "GitHub Actions"],
+    "stars": 0,
+    "forks": 0,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/portfolio"
+  }
+]
