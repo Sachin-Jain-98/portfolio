@@ -13,14 +13,14 @@ export default function Education() {
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-4">
               <div>
                 <h3 className="text-xl font-bold dark:text-white">Bachelor of Technology in Computer Science</h3>
-                <p className="text-blue-600 dark:text-blue-400 font-medium">Engineering College, India</p>
+                <p className="text-blue-600 dark:text-blue-400 font-medium">Vellore Institute of Technology, India</p>
               </div>
               <span className="text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">2016 – 2020</span>
             </div>
             <ul className="space-y-2 text-gray-600 dark:text-gray-300">
               <li className="flex items-start gap-2">
                 <span className="w-1.5 h-1.5 bg-blue-600 dark:bg-blue-400 rounded-full mt-1 shrink-0" />
-                CGPA: 8.5/10
+                CGPA: 8.3/10
               </li>
               <li className="flex items-start gap-2">
                 <span className="w-1.5 h-1.5 bg-blue-600 dark:bg-blue-400 rounded-full mt-1 shrink-0" />

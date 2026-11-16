@@ -61,10 +61,10 @@ export const experience = [
 export const education = [
   {
     degree: "Bachelor of Technology in Computer Science",
-    institution: 'Engineering College',
+    institution: 'Vellore Institute of Technology',
     duration: '2016 – 2020',
     location: 'India',
-    details: ['CGPA: 8.5/10', 'Relevant coursework: Data Structures, Algorithms, Database Systems, Web Technologies'],
+    details: ['CGPA: 8.3/10', 'Relevant coursework: Data Structures, Algorithms, Database Systems, Web Technologies'],
   },
 ];
 
