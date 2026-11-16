@@ -1,21 +1,11 @@
-import { Code, Laptop, Database, Users, Brain } from 'lucide-react';
+import { Code, Laptop, Database, Server, Layout } from 'lucide-react';
 import { skills } from '../data/content';
 
 const categories = [
   {
-    title: 'Languages',
+    title: 'Languages & Frameworks',
     icon: <Code className="w-5 h-5" />,
-    items: skills.languages,
-  },
-  {
-    title: 'Frameworks',
-    icon: <Laptop className="w-5 h-5" />,
-    items: skills.frameworks,
-  },
-  {
-    title: 'Tools',
-    icon: <Users className="w-5 h-5" />,
-    items: skills.tools,
+    items: skills['languages-frameworks'],
   },
   {
     title: 'Databases',
@@ -23,9 +13,19 @@ const categories = [
     items: skills.databases,
   },
   {
-    title: 'Soft Skills',
-    icon: <Brain className="w-5 h-5" />,
-    items: skills.soft,
+    title: 'Cloud & DevOps',
+    icon: <Server className="w-5 h-5" />,
+    items: skills['cloud-devops'],
+  },
+  {
+    title: 'Tools',
+    icon: <Laptop className="w-5 h-5" />,
+    items: skills.tools,
+  },
+  {
+    title: 'Architecture',
+    icon: <Layout className="w-5 h-5" />,
+    items: skills.architecture,
   },
 ];
 

@@ -1,5 +1,6 @@
 import { Mail, Phone, Linkedin, Github, ArrowRight } from 'lucide-react';
 import { contact } from '../data/content';
+import profile from '../assets/profile.jpg';
 
 export default function Hero() {
   return (
@@ -9,6 +10,11 @@ export default function Hero() {
           <span className="w-2 h-2 rounded-full bg-green-500 dark:bg-green-400 animate-pulse" />
           Available for new opportunities
         </div>
+        <img
+          src={profile}
+          alt="Sachin Jain"
+          className="w-24 h-24 md:w-36 md:h-36 rounded-full mb-6 block mx-auto object-cover"
+        />
         <h1 className="text-4xl md:text-6xl font-bold mb-6 dark:text-white tracking-tight">
           Sachin Jain
         </h1>
