@@ -19,7 +19,7 @@ export default function Hero() {
           Sachin Jain
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-10 max-w-2xl mx-auto">
-          Software Engineer building scalable web applications with React, Node.js, and Java.
+          Senior .NET Developer building scalable web applications with C#, .NET, Azure, React, and Node.js.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <a

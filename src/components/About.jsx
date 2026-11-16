@@ -10,9 +10,9 @@ export default function About() {
         </div>
         <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-8 shadow-sm">
           <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed mb-6">
-            I'm Sachin Jain, a software engineer with experience building full-stack web applications and
-            microservices. Currently working at Barclays, I focus on creating scalable, maintainable software
-            using modern technologies like React, Node.js, Java, and Spring Boot.
+            I'm Sachin Jain, a Senior .NET Developer at Barclays with experience building scalable web
+            applications and microservices. I focus on creating reliable, maintainable software using
+            modern technologies like C#, .NET, Azure, React, and Node.js.
           </p>
           <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
             I enjoy turning complex problems into simple, beautiful solutions and am always eager to learn
