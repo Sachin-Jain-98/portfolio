@@ -70,7 +70,7 @@ export const education = [
 
 export const contact = {
   email: 'sachin.udaipur1998@gmail.com',
-  phone: '+91 9409462677496',
+  phone: '+91 9462677496',
   github: 'https://github.com/Sachin-Jain-98',
   linkedin: 'https://www.linkedin.com/in/sachin-jain-094787182',
 };
