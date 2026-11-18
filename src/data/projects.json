@@ -11,16 +11,6 @@
   },
   {
     "id": 2,
-    "title": "Task Management App",
-    "description": "Collaborative task management tool with real-time updates, team workspaces, and progress tracking.",
-    "tech": ["React", "Firebase", "Tailwind CSS"],
-    "stars": 28,
-    "forks": 8,
-    "liveUrl": "#",
-    "sourceUrl": "https://github.com/Sachin-Jain-98/task-manager"
-  },
-  {
-    "id": 3,
     "title": "Weather Dashboard",
     "description": "Weather application displaying current conditions, forecasts, and location-based weather data.",
     "tech": ["React", "OpenWeather API", "Chart.js"],
@@ -30,7 +20,7 @@
     "sourceUrl": "https://github.com/Sachin-Jain-98/weather-dashboard"
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "Expense Tracker",
     "description": "Personal finance application for tracking expenses, setting budgets, and generating spending reports.",
     "tech": ["React", "Node.js", "PostgreSQL"],
@@ -40,7 +30,7 @@
     "sourceUrl": "https://github.com/Sachin-Jain-98/expense-tracker"
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "Recipe Finder",
     "description": "Recipe search application using third-party API with filtering by ingredients, cuisine, and dietary preferences.",
     "tech": ["React", "Spoonacular API", "HTML/CSS"],
@@ -50,7 +40,7 @@
     "sourceUrl": "https://github.com/Sachin-Jain-98/recipe-finder"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Portfolio Website",
     "description": "This personal portfolio website built with React, Vite, and Tailwind CSS, deployed on GitHub Pages.",
     "tech": ["React", "Vite", "Tailwind CSS", "GitHub Actions"],
@@ -58,5 +48,35 @@
     "forks": 0,
     "liveUrl": "#",
     "sourceUrl": "https://github.com/Sachin-Jain-98/portfolio"
+  },
+  {
+    "id": 6,
+    "title": "My Mailer - Custom Mailing Web App",
+    "description": "Customized Mailing WebApp Built using Express Node.js, Ejs, JQuery, Ajax, BootStrap and MongoDB.",
+    "tech": ["Express", "Node.js", "EJS", "jQuery", "Ajax", "Bootstrap", "MongoDB"],
+    "stars": 0,
+    "forks": 0,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/My-Mailer-Custom-Mailing-WebApp-Node.js"
+  },
+  {
+    "id": 7,
+    "title": "The NoteApp - Express Node",
+    "description": "WebApp for Short notes with Text Formatting using Express Node.js and Json database.",
+    "tech": ["Express", "Node.js"],
+    "stars": 0,
+    "forks": 0,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/The-NoteApp-Express-Node"
+  },
+  {
+    "id": 8,
+    "title": "Account Management System",
+    "description": "Account management system built with Node.js.",
+    "tech": ["Node.js"],
+    "stars": 0,
+    "forks": 0,
+    "liveUrl": "#",
+    "sourceUrl": "https://github.com/Sachin-Jain-98/AccountManagementSystem/tree/master/accountmanagement"
   }
 ]
